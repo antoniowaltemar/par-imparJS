@@ -1,0 +1,11 @@
+body{
+    background-color: white;
+    font: 12pt Arial;
+}
+#titulo{    
+font-family: 'Pacifico', cursive; font-weight: normal;
+}
+#botao{
+    width: 200px;
+    height: 80px;
+}
